@@ -1,10 +1,10 @@
 # André Rochlitz
 ## Diplom Informatiker - Software Development Consultant
+## isaqb Certified Architect
 
 **Contact Information:**
 - Email: rochlitz.consulting@gmail.com
-- Mobile: +49 1573 321 321 3
-- Address: Rochlitz Consulting, Im Achterkastell 1, 10315 Berlin
+- Address: Rochlitz Consulting - 10315 Berlin
 - Ust-IdNr.: DE23233428
 
 ---
